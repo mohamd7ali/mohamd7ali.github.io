@@ -1,7 +1,9 @@
 ---
 layout: default
-title: Welcome
+title: Mohammad Ali Etemadi Naeen
 ---
 
-# Welcome to my GitHub Pages Site
-This is my personal website built using the Cayman Jekyll theme!
+# Welcome to my GitHub Page!
+Hello! My name is Mohammad Ali. This is my personal website where I showcase my projects and share my professional journey.
+
+# About Me
